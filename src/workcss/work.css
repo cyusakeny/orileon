@@ -1,0 +1,11 @@
+.main {
+    background: linear-gradient(to bottom,  rgba(0, 0, 0,0.1),rgba(0,0,0,0.9)),url("../Images/oribg.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.main2{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(221, 24, 24, 0.1);
+    backdrop-filter: blur(18px);
+}
